@@ -1,0 +1,45 @@
+site_name: EECS NOOB
+theme: 
+  # The overall theme
+  name: material
+
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+
+  # Color Theme
+  palette: 
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/lightbulb
+        name: Switch to dark mode
+      primary: cyan     # Header Color
+      accent: indigo
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/lightbulb-outline 
+        name: Switch to light mode
+
+plugins:
+  - blog
+
+extra:
+  analytics:
+    provider: google
+    property: G-XXXXXXXXXX
+
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/MorrisHohoho
+
+copyright: Copyright &copy; 2023 Ruoshen Mo
