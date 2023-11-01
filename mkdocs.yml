@@ -1,21 +1,52 @@
-site_name: EECS NOOB
+
+# Site 
+site_name: 赢
+site_author: MorrisHohoho
+repo_name: NOOB_BLOGS
+repo_url: https://github.com/MorrisHohoho/NOOB_BLOGS
+copyright: Copyright &copy; 2023 Ruoshen Mo
+
+# nav:
+#   - Home:
+#     - About: index.md
+#   - Notes:
+#     - About: notes/index.md
+#     - CS: notes/CS/
+
+
+
 theme: 
   # The overall theme
   name: material
 
+  #The site logo(header)
+  icon:
+    logo: material/school
+    repo: fontawesome/brands/github
+
   features:
-    - navigation.tabs
-    # - navigation.sections
-    - navigation.expand
-    - toc.integrate
-    - navigation.top
-    - search.suggest
-    - search.highlight
+    # - header.autohide
+
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
-    - header.autohide
-  
+
+    - navigation.tabs
+    - navigation.expansion
+    - navigation.top
+    - navigation.footer
+    - navigation.instant
+    - navigation.tracking
+    - navigation.indexes
+    # - navigation.path
+
+    # - toc.integrate
+    - toc.follow
+
+    - search.suggest
+    - search.highlight
+
+    - announce.dismiss
 
   # Color Theme
   palette: 
@@ -33,21 +64,8 @@ theme:
         icon: material/lightbulb-outline 
         name: Switch to light mode
 
-plugins:
-  - blog
-  - tags
-
-extra:
-  analytics:
-    provider: google
-    property: G-XXXXXXXXXX
-
-  social:
-    - icon: fontawesome/brands/github-alt
-      link: https://github.com/MorrisHohoho
   
 
-copyright: Copyright &copy; 2023 Ruoshen Mo
 
 markdown_extensions:
   - pymdownx.highlight:
@@ -66,3 +84,24 @@ markdown_extensions:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
 
+plugins:
+  - search:
+      lang:
+        - en
+        - ja
+      separator: '[\s\u200b\-,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
+  - git-revision-date-localized
+  # - tags:
+  #     tags_file: cases/tags.md
+
+
+extra:
+  analytics:
+    provider: google
+    property: G-33KRCT3PJL
+
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/MorrisHohoho
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:morrishohoho@gmail.com
