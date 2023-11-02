@@ -10,7 +10,7 @@ Here are some notes and blogs of a noob. He is struggling in learning Computer S
 - **Resources:** Some useful resources.
 
 ## Statement
-**If you are a current student, please refrain from plagiarizing coursework code.**
+**If you are a current student, please do not plagiarize coursework code.**
 
 - You can draw inspiration from the problem-solving approach, **but please do not plagiarize coursework code.**
 
