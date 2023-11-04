@@ -6,7 +6,7 @@ These notes are for 61A 2023 Spring.
 
 * [CS 61A Spring 2023 (berkeley.edu)](https://inst.eecs.berkeley.edu/~cs61a/sp23/)
 
-My solutions at here: [![](https://img.shields.io/badge/Github-61A-blue)](https://github.com/MorrisHohoho/UCB_CS_61A)
+My solutions at here: [![](https://img.shields.io/badge/Github-61A-blue)](https://github.com/MorrisHohoho/UCB_CS_61A). **I set it to private due to course policies.**
 
 You will learn:
 
