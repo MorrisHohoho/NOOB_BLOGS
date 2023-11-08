@@ -13,7 +13,9 @@ Here are some useful resources.
 - [CSDIY](https://csdiy.wiki/CS%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/)
 
 ## Tools Tutorials
-- [Interactive Vim tutorial](https://www.openvim.com/)
+### Vim
+- [Interactive Vim tutorial](https://www.openvim.com/): A guide to basic vim commands.
+- [Vim9.0 Quick Setup Tutorial](https://www.youtube.com/watch?v=UuqhiaxlFDk): A qucik setup tutorial of VIM 9.0 Setup, including how to install plugins.
 
 ## Interesting Tools
 - [Code Visualizer](https://pythontutor.com/): A very useful tool to visualize the code execution process, like the stack and the heap. It is used in UCB CS61A.
