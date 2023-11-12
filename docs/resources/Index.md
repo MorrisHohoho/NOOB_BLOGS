@@ -7,7 +7,7 @@ Here are some useful resources.
 - [SCU计金作业汇总](https://github.com/KarryRen/SCU-CS-Class-Materials.git)
 
 
-## Methodlogy
+## Methodology
 - [交大生存手册](https://survivesjtu.gitbook.io/survivesjtumanual/)
 
 - [CSDIY](https://csdiy.wiki/CS%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/)
