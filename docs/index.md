@@ -4,10 +4,10 @@
 Here are some notes and blogs of a noob. He is struggling in learning Computer Science and English. If you find something wrong in his posts or are just interested in some resources, feel free to contact him. His website is [Mo](https://morrishohoho.github.io/). He can be found at morrishohoho dot gmail dot com. (You can also click the paper plane button at the bottom)
 
 ## Overview
-- **Home:** The homepage you're reading right now.
+- **Homepage:** The homepage you're reading right now.
 - **Blogs:** Some personal opinions, mainly in Chinese.
-- **Notes:** Mainly for CS stuff right now. You can find my solutions for some courses here.
-- **Resources:** Some useful resources.
+- **Notes:** Mainly for CS stuff right now. You can find my solutions to some courses here.
+- **Resources:** Some useful resources that I think are interesting.
 
 ## Statement
 **If you are a current student, please do not plagiarize coursework code.**
