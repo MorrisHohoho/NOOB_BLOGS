@@ -9,6 +9,8 @@ These guys are extraordinary, crazy, insane, nearly like a superman. Whether the
 
 ## SHO
 
+- [Lijie Chen](https://chen-lijie.github.io/)
+    - Theory Guy
 - [Yan DAI](https://ydai03.github.io/)
     - ICML\*3,NeurIPS\*2,ICLR\*1 during BS.
 - [Yin Wang](https://www.yinwang.org/)
