@@ -1,2 +1,4 @@
 # About
-Coming soon!
+
+## Misc
+- [Project: Superman Observation](./[Misc]Superman.md)
