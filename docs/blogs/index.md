@@ -1,4 +1,4 @@
 # About
 
 ## Misc
-- [Project: Superman Observation](./[Misc]Superman.md)
+- [Strange Human Ovservation](./[Misc]Superman.md)
