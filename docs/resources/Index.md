@@ -18,5 +18,8 @@ Here are some useful resources.
 - [Vim9.0 Quick Setup Tutorial](https://www.youtube.com/watch?v=UuqhiaxlFDk): A qucik setup tutorial of VIM 9.0 Setup, including how to install plugins.
 
 ## Interesting Tools
-- [Code Visualizer](https://pythontutor.com/): A very useful tool to visualize the code execution process, like the stack and the heap. It is used in UCB CS61A.
+- [Code Visualizer](https://pythontutor.com/): A very useful tool to visualize the code execution process, like the stack and the heap. It is used in UCB CS61A and 61B.
+
+## Interesting Websites
+- [Trolley Problems](https://neal.fun/absurd-trolley-problems/): A interactive website with trolley problems.
 
