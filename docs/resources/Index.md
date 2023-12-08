@@ -12,6 +12,10 @@ Here are some useful resources.
 
 - [CSDIY](https://csdiy.wiki/CS%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/)
 
+## Courses 
+### Wireless
+- [IoT Introduction,  Prof.Jiliang Wang](https://iot-book.github.io/0_%E5%89%8D%E8%A8%802/): IoT techenique introduction that explains wireless communication and sensing. (In Chinese)
+
 ## Tools Tutorials
 ### Vim
 - [Interactive Vim tutorial](https://www.openvim.com/): A guide to basic vim commands.
