@@ -16,6 +16,10 @@ Here are some useful resources.
 ### Wireless
 - [IoT Introduction,  Prof.Jiliang Wang](https://iot-book.github.io/0_%E5%89%8D%E8%A8%802/): IoT techenique introduction that explains wireless communication and sensing. (In Chinese)
 
+### Embeded Systems
+- [Bootlin-Embeded Linux](https://bootlin.com/doc/training/embedded-linux/embedded-linux-slides.pdf)
+
+
 ## Tools Tutorials
 ### Vim
 - [Interactive Vim tutorial](https://www.openvim.com/): A guide to basic vim commands.
