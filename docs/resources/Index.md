@@ -27,3 +27,8 @@ Here are some useful resources.
 ## Interesting Websites
 - [Trolley Problems](https://neal.fun/absurd-trolley-problems/): A interactive website with trolley problems.
 
+## Music
+- [electroSmash](https://www.electrosmash.com/): Circuit introduction of famous guitar effects unit.
+- [JazzStandards](https://www.jazzstandards.com/compositions/) : Well-known Jazz standards lists.
+- [MusicMap](https://musicmap.info/) : The Genealogy and History of Popular Music Genres.
+- [Encyclopaedia Metallum](https://www.metal-archives.com/): The famous metal archives.
