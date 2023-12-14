@@ -9,6 +9,20 @@ These guys are extraordinary, crazy, insane, nearly like a superman. Whether the
 
 ## SHO
 
+
+### Math and Physics Guy
+- [Huitao Shen](https://huitaoshen.me/)
+    - Rising star as a physicist->Cofounder of a quant trading startup at NYC.
+    - Very interesting if you search for his name in Chinese.(沈汇涛)
+- Xinghe Li (李星河)
+    - Just search for him.
+- [Dayue Chen (陈大岳)](https://www.math.pku.edu.cn/teachers/dayue/Homepage/)
+    - ~~老顽童~~
+    - A 80s flyer: China->U.S.->China
+    - His blogs contain many interesting thoughts on studying abroad, aimed at PKU students.
+    - And many valuable memories in 80s China.
+
+### CS Guy
 - [Lijie Chen](https://chen-lijie.github.io/)
     - Theory Guy
 - [Yan DAI](https://ydai03.github.io/)
@@ -16,14 +30,12 @@ These guys are extraordinary, crazy, insane, nearly like a superman. Whether the
 - [Yin Wang](https://www.yinwang.org/)
     - SCU->THU->Cornell->IUB
     - He is famous for his blog: [清华梦的粉碎](https://zhuanlan.zhihu.com/p/338488746)
-- [Huitao Shen](https://huitaoshen.me/)
-    - Rising star as a physicist->Cofounder of a quant trading startup at NYC.
-    - Very interesting if you search for his name in Chinese.(沈汇涛)
-- Xinghe Li (李星河)
-    - Just search for him.
 - [Samuel Bosch](https://www.samuel-bosch.com/)
     - Crazy guy
     - Has a youtube channel
+
+
+### ? ? ?
 
 - [Eileen Gu](https://en.wikipedia.org/wiki/Eileen_Gu)
     - Almost every Chinese knows her.
