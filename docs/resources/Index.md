@@ -7,10 +7,17 @@ Here are some useful resources.
 - [SCU计金作业汇总](https://github.com/KarryRen/SCU-CS-Class-Materials.git)
 
 
-## Methodology
+## Undergradute Methodology
 - [交大生存手册](https://survivesjtu.gitbook.io/survivesjtumanual/)
 
 - [CSDIY](https://csdiy.wiki/CS%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/)
+
+## Resources
+### Methodology
+- [How to read Paper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf): There is a well-known essay that recommends a three-step process for reading a paper.
+- [How to Look for Ideas in Computer Science Research](https://medium.com/digital-diplomacy/how-to-look-for-ideas-in-computer-science-research-7a3fa6f4696f): Written by Prof. Zhiyun Qian. The idea of finding vulnerabilities is impressive.
+- [GoodReading](https://yichez.site/myblog/index.html): A senior SCUer recommended reading resources.
+- [Dingzeyu Li Podcast](https://lidingzeyu.com/podcast/category/episodes/): This is a podcast channel. The topics are mainly about the personal thoughts and ideas of some "Elite" people in the area of CS. (For example, PhD students in tier-1 universities, Senior Researchers)
 
 ## Courses 
 ### Wireless
