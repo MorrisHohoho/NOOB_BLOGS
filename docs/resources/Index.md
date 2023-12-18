@@ -26,6 +26,9 @@ Here are some useful resources.
 ### Embeded Systems
 - [Bootlin-Embeded Linux](https://bootlin.com/doc/training/embedded-linux/embedded-linux-slides.pdf)
 
+### CTF
+- [MetaCTF_Blog](https://blog.metactf.com/): Basic concepts introduction of CTF, hosted by UVA undergraduate students.
+
 
 ## Tools Tutorials
 ### Vim
