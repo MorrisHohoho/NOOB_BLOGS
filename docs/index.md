@@ -5,7 +5,7 @@ Here are some notes and blogs of a noob. He is struggling in learning Computer S
 
 ## Overview
 - **Homepage:** The homepage you're reading right now.
-- **Blogs:** Some personal opinions, mainly in Chinese.
+- **Blogs:** Some personal opinions, which written in Chinese or English.
 - **Notes:** Mainly for CS stuff right now. You can find my solutions to some courses here.
 - **Resources:** Some useful resources that I think are interesting.
 
