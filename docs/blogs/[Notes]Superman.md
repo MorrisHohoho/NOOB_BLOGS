@@ -7,10 +7,8 @@
 
 These guys are extraordinary, crazy, insane, nearly like a superman. Whether their experiences serve as an stimulation or toxic depends on your mindset. :)
 
-## SHO
 
-
-### Math and Physics Guy
+## Math and Physics Guy
 - [Huitao Shen](https://huitaoshen.me/)
     - Rising star as a physicist->Cofounder of a quant trading startup at NYC.
     - Very interesting if you search for his name in Chinese.(沈汇涛)
@@ -21,8 +19,11 @@ These guys are extraordinary, crazy, insane, nearly like a superman. Whether the
     - A 80s flyer: China->U.S.->China
     - His blogs contain many interesting thoughts on studying abroad, aimed at PKU students.
     - And many valuable memories in 80s China.
+- 谢彦波，宁铂
+    - 1978年科大第一届少年班
+    - [谢彦波的采访](https://mp.weixin.qq.com/s?__biz=MzU4ODQ0NzU3OA==&mid=2247491303&idx=1&sn=53c6f4b6720f3375b250ea8d5bd25847&source=41#wechat_redirect)
 
-### CS Guy
+## CS Guy
 - [Lijie Chen](https://chen-lijie.github.io/)
     - Theory Guy
 - [Yan DAI](https://ydai03.github.io/)
@@ -32,10 +33,10 @@ These guys are extraordinary, crazy, insane, nearly like a superman. Whether the
     - He is famous for his blog: [清华梦的粉碎](https://zhuanlan.zhihu.com/p/338488746)
 - [Samuel Bosch](https://www.samuel-bosch.com/)
     - Crazy guy
-    - Has a youtube channel
+    - Quit MIT Ph.D.
 
 
-### ? ? ?
+## ? ? ?
 
 - [Eileen Gu](https://en.wikipedia.org/wiki/Eileen_Gu)
     - Almost every Chinese knows her.
