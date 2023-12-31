@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>music - Tag - Morris&#39; Blogs</title>
+        <link>http://example.org/tags/music/</link>
+        <description>music - Tag - Morris&#39; Blogs</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>morrishohoho@gmail.com (Morris)</managingEditor>
+            <webMaster>morrishohoho@gmail.com (Morris)</webMaster><lastBuildDate>Wed, 02 Aug 2023 11:04:49 &#43;0800</lastBuildDate><atom:link href="http://example.org/tags/music/" rel="self" type="application/rss+xml" /><item>
+    <title>Music Resources</title>
+    <link>http://example.org/posts/resources/resource_music/</link>
+    <pubDate>Wed, 02 Aug 2023 11:04:49 &#43;0800</pubDate>
+    <author>Morris</author>
+    <guid>http://example.org/posts/resources/resource_music/</guid>
+    <description><![CDATA[Music Resources electroSmash: Circuit introduction of famous guitar effects unit. JazzStandards : Well-known Jazz standards lists. MusicMap : The Genealogy and History of Popular Music Genres. Encyclopaedia Metallum: The famous metal archives. ]]></description>
+</item>
+</channel>
+</rss>

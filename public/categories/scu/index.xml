@@ -1,0 +1,40 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>SCU - Category - Morris&#39; Blogs</title>
+        <link>http://example.org/categories/scu/</link>
+        <description>SCU - Category - Morris&#39; Blogs</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>morrishohoho@gmail.com (Morris)</managingEditor>
+            <webMaster>morrishohoho@gmail.com (Morris)</webMaster><lastBuildDate>Wed, 02 Aug 2023 11:04:49 &#43;0800</lastBuildDate><atom:link href="http://example.org/categories/scu/" rel="self" type="application/rss+xml" /><item>
+    <title>[SCU]OneNet物联网设备云平台开发与实践</title>
+    <link>http://example.org/posts/scu/1.onenet_2021/</link>
+    <pubDate>Wed, 02 Aug 2023 11:04:49 &#43;0800</pubDate>
+    <author>Morris</author>
+    <guid>http://example.org/posts/scu/1.onenet_2021/</guid>
+    <description><![CDATA[OneNet 物联网设备云平台开发与实践 2021 Spring About An introductory course about IoT devices. My team project is a clone version of a famous open-source project: plus my silly WeChat control platform. Stacks: Arduino+Wechat+Basic MQTT Knowledge Demo FOC WeChat]]></description>
+</item>
+<item>
+    <title>[SCU]数据可视化</title>
+    <link>http://example.org/posts/scu/2.%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96/</link>
+    <pubDate>Wed, 02 Aug 2023 11:04:49 &#43;0800</pubDate>
+    <author>Morris</author>
+    <guid>http://example.org/posts/scu/2.%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96/</guid>
+    <description><![CDATA[数据可视化 2021 Spring About The team project of the course: A simple data visualization platform about students&rsquo; placement. Stacks: HTML+JS+Echarts+Python Here is the repository: Demo]]></description>
+</item>
+<item>
+    <title>[SCU]编译原理</title>
+    <link>http://example.org/posts/scu/5.%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/</link>
+    <pubDate>Wed, 02 Aug 2023 11:04:49 &#43;0800</pubDate>
+    <author>Morris</author>
+    <guid>http://example.org/posts/scu/5.%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/</guid>
+    <description><![CDATA[编译原理与实现 2023 Spring About Lab1-C minus Lexical Analyzer Lab2-C minus parser These labs are so easy that I can&rsquo;t learn a lot from them, so I choose to use NJU Labs to replace them. Here is the repository: Useful Link ch06-LR分析-第2第3部分_哔哩哔哩_bi]]></description>
+</item>
+<item>
+    <title>[SCU]计算机图形学</title>
+    <link>http://example.org/posts/scu/3.%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6/</link>
+    <pubDate>Wed, 02 Aug 2023 11:04:49 &#43;0800</pubDate>
+    <author>Morris</author>
+    <guid>http://example.org/posts/scu/3.%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6/</guid>
+    <description><![CDATA[计算机图形学 2022 Fall About This is also an introductory course about computer graphics. The final project requires you to implement your 3D-Object rendering. I chose a character from DOTA 2 and wrote a shader for it. Here is the repository: Demo Useful Resources Games 101]]></description>
+</item>
+</channel>
+</rss>

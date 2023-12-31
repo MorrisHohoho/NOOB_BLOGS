@@ -1,0 +1,88 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All Posts - Morris&#39; Blogs</title>
+        <link>http://example.org/posts/</link>
+        <description>All Posts | Morris&#39; Blogs</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>morrishohoho@gmail.com (Morris)</managingEditor>
+            <webMaster>morrishohoho@gmail.com (Morris)</webMaster><lastBuildDate>Wed, 02 Aug 2023 11:04:49 &#43;0800</lastBuildDate><atom:link href="http://example.org/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>[SCU]OneNet物联网设备云平台开发与实践</title>
+    <link>http://example.org/posts/scu/1.onenet_2021/</link>
+    <pubDate>Wed, 02 Aug 2023 11:04:49 &#43;0800</pubDate>
+    <author>Morris</author>
+    <guid>http://example.org/posts/scu/1.onenet_2021/</guid>
+    <description><![CDATA[OneNet 物联网设备云平台开发与实践 2021 Spring About An introductory course about IoT devices. My team project is a clone version of a famous open-source project: plus my silly WeChat control platform. Stacks: Arduino+Wechat+Basic MQTT Knowledge Demo FOC WeChat]]></description>
+</item>
+<item>
+    <title>[SCU]数据可视化</title>
+    <link>http://example.org/posts/scu/2.%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96/</link>
+    <pubDate>Wed, 02 Aug 2023 11:04:49 &#43;0800</pubDate>
+    <author>Morris</author>
+    <guid>http://example.org/posts/scu/2.%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96/</guid>
+    <description><![CDATA[数据可视化 2021 Spring About The team project of the course: A simple data visualization platform about students&rsquo; placement. Stacks: HTML+JS+Echarts+Python Here is the repository: Demo]]></description>
+</item>
+<item>
+    <title>[SCU]研究开发与实践-开发笔记</title>
+    <link>http://example.org/posts/scu/scudev/fakeceleste/</link>
+    <pubDate>Wed, 02 Aug 2023 11:04:49 &#43;0800</pubDate>
+    <author>Morris</author>
+    <guid>http://example.org/posts/scu/scudev/fakeceleste/</guid>
+    <description><![CDATA[FakeCeleste 简介 用Unity制作一个仿制的Celeste，尽力还原游戏的手感。 Day 1 地图绘制 在网上能够找到别人整理好的素材，虽然素材不太好使，但是不细看]]></description>
+</item>
+<item>
+    <title>[SCU]研究开发与实践-笔记1</title>
+    <link>http://example.org/posts/scu/scudev/lecture/1-%E5%9F%BA%E4%BA%8E%E5%9B%BE%E5%BD%A2%E7%BB%98%E5%88%B6%E7%9A%84%E6%B8%B8%E6%88%8F%E5%88%B6%E4%BD%9C/</link>
+    <pubDate>Wed, 02 Aug 2023 11:04:49 &#43;0800</pubDate>
+    <author>Morris</author>
+    <guid>http://example.org/posts/scu/scudev/lecture/1-%E5%9F%BA%E4%BA%8E%E5%9B%BE%E5%BD%A2%E7%BB%98%E5%88%B6%E7%9A%84%E6%B8%B8%E6%88%8F%E5%88%B6%E4%BD%9C/</guid>
+    <description><![CDATA[第一讲-基于图形绘制的游戏制作 安装EasyX，Visual Studio 官网直接下载就行了，安装程序非常人性化。课程推荐版本：VS2013,EasyX-]]></description>
+</item>
+<item>
+    <title>[SCU]研究开发与实践-笔记2</title>
+    <link>http://example.org/posts/scu/scudev/lecture/2-%E5%9B%BE%E5%BD%A2%E7%BB%98%E5%88%B6%E4%B8%8E%E8%BE%93%E5%85%A5%E6%8E%A7%E5%88%B6-20230220073637-vqlkcox/</link>
+    <pubDate>Wed, 02 Aug 2023 11:04:49 &#43;0800</pubDate>
+    <author>Morris</author>
+    <guid>http://example.org/posts/scu/scudev/lecture/2-%E5%9B%BE%E5%BD%A2%E7%BB%98%E5%88%B6%E4%B8%8E%E8%BE%93%E5%85%A5%E6%8E%A7%E5%88%B6-20230220073637-vqlkcox/</guid>
+    <description><![CDATA[第二讲-图形绘制与输入控制 讲授内容 球体（柱体）运动绘制 键盘输入控制 关于不确定性的表达 三个练习 范例一-自由落体 见第一讲自由落体 练习一-跳一跳 #include]]></description>
+</item>
+<item>
+    <title>[SCU]研究开发与实践-笔记3</title>
+    <link>http://example.org/posts/scu/scudev/lecture/3-%E6%89%93%E7%A0%96%E5%9D%97%E5%92%8C%E4%B8%8B100%E5%B1%82%E6%B8%B8%E6%88%8F%E5%88%B6%E4%BD%9C/</link>
+    <pubDate>Wed, 02 Aug 2023 11:04:49 &#43;0800</pubDate>
+    <author>Morris</author>
+    <guid>http://example.org/posts/scu/scudev/lecture/3-%E6%89%93%E7%A0%96%E5%9D%97%E5%92%8C%E4%B8%8B100%E5%B1%82%E6%B8%B8%E6%88%8F%E5%88%B6%E4%BD%9C/</guid>
+    <description><![CDATA[第三讲-打砖块和下100层游戏制作 绘制太快导致闪屏 当一次性绘制的图形比较多的时候，屏幕可能会出现频闪，解决图形频闪问题的一个方法是采用批绘制]]></description>
+</item>
+<item>
+    <title>[SCU]研究开发与实践-笔记4</title>
+    <link>http://example.org/posts/scu/scudev/lecture/4-%E7%82%B8%E5%BC%B9%E4%BA%BA%E5%92%8C%E9%A3%9E%E6%9C%BA%E5%A4%A7%E6%88%98/</link>
+    <pubDate>Wed, 02 Aug 2023 11:04:49 &#43;0800</pubDate>
+    <author>Morris</author>
+    <guid>http://example.org/posts/scu/scudev/lecture/4-%E7%82%B8%E5%BC%B9%E4%BA%BA%E5%92%8C%E9%A3%9E%E6%9C%BA%E5%A4%A7%E6%88%98/</guid>
+    <description><![CDATA[第四讲-炸弹人和飞机大战 这节课简单评讲一下上节课的两个练习。 然后就又是新练习了，炸弹人和飞机大战 炸弹人思路 观察老师给的代码框架，其中小球有没]]></description>
+</item>
+<item>
+    <title>[SCU]研究开发与实践-笔记5</title>
+    <link>http://example.org/posts/scu/scudev/lecture/5-%E8%B4%B4%E5%9B%BE%E5%92%8C%E9%9F%B3%E9%A2%91/</link>
+    <pubDate>Wed, 02 Aug 2023 11:04:49 &#43;0800</pubDate>
+    <author>Morris</author>
+    <guid>http://example.org/posts/scu/scudev/lecture/5-%E8%B4%B4%E5%9B%BE%E5%92%8C%E9%9F%B3%E9%A2%91/</guid>
+    <description><![CDATA[第五讲-贴图和音频 讲解内容 这节课主要介绍了如何往游戏中添加贴图和音频。并给出了两个相关练习作业，贴图形式的坚持100s和实现简单动画。 贴图 贴]]></description>
+</item>
+<item>
+    <title>[SCU]研究开发与实践-笔记6</title>
+    <link>http://example.org/posts/scu/scudev/lecture/6-%E8%B4%B4%E5%9B%BE%E6%B8%B8%E6%88%8F%E8%BF%9B%E9%98%B6/</link>
+    <pubDate>Wed, 02 Aug 2023 11:04:49 &#43;0800</pubDate>
+    <author>Morris</author>
+    <guid>http://example.org/posts/scu/scudev/lecture/6-%E8%B4%B4%E5%9B%BE%E6%B8%B8%E6%88%8F%E8%BF%9B%E9%98%B6/</guid>
+    <description><![CDATA[第六讲-贴图游戏进阶 讲解内容 这节课继续将贴图游戏的制作，布置了四个练习，都是带有交互性质的贴图小游戏练习。 EasyX透明背景贴图的实现 在这次]]></description>
+</item>
+<item>
+    <title>[SCU]研究开发与实践-笔记7</title>
+    <link>http://example.org/posts/scu/scudev/lecture/7-%E8%B4%B4%E5%9B%BE%E6%B8%B8%E6%88%8F%E8%BF%9B%E9%98%B62/</link>
+    <pubDate>Wed, 02 Aug 2023 11:04:49 &#43;0800</pubDate>
+    <author>Morris</author>
+    <guid>http://example.org/posts/scu/scudev/lecture/7-%E8%B4%B4%E5%9B%BE%E6%B8%B8%E6%88%8F%E8%BF%9B%E9%98%B62/</guid>
+    <description><![CDATA[第七讲-贴图游戏进阶2 内容 这节课带大家动手实现了一个简单的类似类似天天跑酷这种游戏。大致两种方法，一个是人物不动，贴图动。另一种就是贴图动，]]></description>
+</item>
+</channel>
+</rss>

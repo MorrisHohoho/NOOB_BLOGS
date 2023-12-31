@@ -1,0 +1,349 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="robots" content="noodp" />
+        <title>[SCU]研究开发与实践-开发笔记 - Morris&#39; Blogs</title><meta name="Description" content="Courses Notes"><meta property="og:title" content="[SCU]研究开发与实践-开发笔记" />
+<meta property="og:description" content="Courses Notes" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://example.org/posts/scu/scudev/fakeceleste/" /><meta property="og:image" content="http://example.org/Apple-Devices-Preview.png" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2023-08-02T11:04:49+08:00" />
+<meta property="article:modified_time" content="2023-08-02T11:04:49+08:00" /><meta property="og:site_name" content="我的网站" />
+
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image" content="http://example.org/Apple-Devices-Preview.png" /><meta name="twitter:title" content="[SCU]研究开发与实践-开发笔记"/>
+<meta name="twitter:description" content="Courses Notes"/>
+<meta name="application-name" content="Morris Win!">
+<meta name="apple-mobile-web-app-title" content="Morris Win!"><meta name="theme-color" content="#ffffff"><meta name="msapplication-TileColor" content="#da532c"><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5"><link rel="manifest" href="/site.webmanifest"><link rel="canonical" href="http://example.org/posts/scu/scudev/fakeceleste/" /><link rel="prev" href="http://example.org/posts/scu/scudev/lecture/1-%E5%9F%BA%E4%BA%8E%E5%9B%BE%E5%BD%A2%E7%BB%98%E5%88%B6%E7%9A%84%E6%B8%B8%E6%88%8F%E5%88%B6%E4%BD%9C/" /><link rel="next" href="http://example.org/posts/scu/2.%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96/" /><link rel="stylesheet" href="/css/style.min.css"><link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.1.1/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+        <noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.1.1/css/all.min.css"></noscript><link rel="preload" href="https://cdn.jsdelivr.net/npm/animate.css@4.1.1/animate.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+        <noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/animate.css@4.1.1/animate.min.css"></noscript><script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "BlogPosting",
+        "headline": "[SCU]研究开发与实践-开发笔记",
+        "inLanguage": "en",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "http:\/\/example.org\/posts\/scu\/scudev\/fakeceleste\/"
+        },"genre": "posts","keywords": "SCU, course notes","wordcount":  3198 ,
+        "url": "http:\/\/example.org\/posts\/scu\/scudev\/fakeceleste\/","datePublished": "2023-08-02T11:04:49+08:00","dateModified": "2023-08-02T11:04:49+08:00","publisher": {
+            "@type": "Organization",
+            "name": ""},"author": {
+                "@type": "Person",
+                "name": "Morris"
+            },"description": "Courses Notes"
+    }
+    </script></head>
+    <body data-header-desktop="fixed" data-header-mobile="auto"><script type="text/javascript">(window.localStorage && localStorage.getItem('theme') ? localStorage.getItem('theme') === 'dark' : ('auto' === 'auto' ? window.matchMedia('(prefers-color-scheme: dark)').matches : 'auto' === 'dark')) && document.body.setAttribute('theme', 'dark');</script>
+
+        <div id="mask"></div><div class="wrapper"><header class="desktop" id="header-desktop">
+    <div class="header-wrapper">
+        <div class="header-title">
+            <a href="/" title="Morris&#39; Blogs"><img
+        class="lazyload logo"
+        src="/svg/loading.min.svg"
+        data-src="/images/favicon.png"
+        data-srcset="/images/favicon.png, /images/favicon.png 1.5x, /images/favicon.png 2x"
+        data-sizes="auto"
+        alt="/images/favicon.png"
+        title="/images/favicon.png" />Win! 赢!</a>
+        </div>
+        <div class="menu">
+            <div class="menu-inner"><a class="menu-item" href="/posts/">📖 Posts </a><a class="menu-item" href="/tags/">🔖 Tags </a><a class="menu-item" href="/categories/">🗂️ Categories </a><a class="menu-item" href="/about/">🦖 About </a><span class="menu-item delimiter"></span><span class="menu-item search" id="search-desktop">
+                        <input type="text" placeholder="Search titles or contents..." id="search-input-desktop">
+                        <a href="javascript:void(0);" class="search-button search-toggle" id="search-toggle-desktop" title="Search">
+                            <i class="fas fa-search fa-fw" aria-hidden="true"></i>
+                        </a>
+                        <a href="javascript:void(0);" class="search-button search-clear" id="search-clear-desktop" title="Clear">
+                            <i class="fas fa-times-circle fa-fw" aria-hidden="true"></i>
+                        </a>
+                        <span class="search-button search-loading" id="search-loading-desktop">
+                            <i class="fas fa-spinner fa-fw fa-spin" aria-hidden="true"></i>
+                        </span>
+                    </span><a href="javascript:void(0);" class="menu-item theme-switch" title="Switch Theme">
+                    <i class="fas fa-adjust fa-fw" aria-hidden="true"></i>
+                </a></div>
+        </div>
+    </div>
+</header><header class="mobile" id="header-mobile">
+    <div class="header-container">
+        <div class="header-wrapper">
+            <div class="header-title">
+                <a href="/" title="Morris&#39; Blogs"><img
+        class="lazyload logo"
+        src="/svg/loading.min.svg"
+        data-src="/images/favicon.png"
+        data-srcset="/images/favicon.png, /images/favicon.png 1.5x, /images/favicon.png 2x"
+        data-sizes="auto"
+        alt="/images/favicon.png"
+        title="/images/favicon.png" />Win! 赢!</a>
+            </div>
+            <div class="menu-toggle" id="menu-toggle-mobile">
+                <span></span><span></span><span></span>
+            </div>
+        </div>
+        <div class="menu" id="menu-mobile"><div class="search-wrapper">
+                    <div class="search mobile" id="search-mobile">
+                        <input type="text" placeholder="Search titles or contents..." id="search-input-mobile">
+                        <a href="javascript:void(0);" class="search-button search-toggle" id="search-toggle-mobile" title="Search">
+                            <i class="fas fa-search fa-fw" aria-hidden="true"></i>
+                        </a>
+                        <a href="javascript:void(0);" class="search-button search-clear" id="search-clear-mobile" title="Clear">
+                            <i class="fas fa-times-circle fa-fw" aria-hidden="true"></i>
+                        </a>
+                        <span class="search-button search-loading" id="search-loading-mobile">
+                            <i class="fas fa-spinner fa-fw fa-spin" aria-hidden="true"></i>
+                        </span>
+                    </div>
+                    <a href="javascript:void(0);" class="search-cancel" id="search-cancel-mobile">
+                        Cancel
+                    </a>
+                </div><a class="menu-item" href="/posts/" title="">📖Posts</a><a class="menu-item" href="/tags/" title="">🔖Tags</a><a class="menu-item" href="/categories/" title="">🗂️Categories</a><a class="menu-item" href="/about/" title="">🦖About</a><a href="javascript:void(0);" class="menu-item theme-switch" title="Switch Theme">
+                <i class="fas fa-adjust fa-fw" aria-hidden="true"></i>
+            </a></div>
+    </div>
+</header><div class="search-dropdown desktop">
+        <div id="search-dropdown-desktop"></div>
+    </div>
+    <div class="search-dropdown mobile">
+        <div id="search-dropdown-mobile"></div>
+    </div><main class="main">
+                <div class="container"><div class="toc" id="toc-auto">
+            <h2 class="toc-title">Contents</h2>
+            <div class="toc-content" id="toc-content-auto"></div>
+        </div><article class="page single"><h1 class="single-title animate__animated animate__flipInX">[SCU]研究开发与实践-开发笔记</h1><div class="post-meta">
+            <div class="post-meta-line"><span class="post-author"><a href="https://github.com/MorrisHohoho" title="Author" target="_blank" rel="noopener noreffer author" class="author"><i class="fas fa-user-circle fa-fw" aria-hidden="true"></i>Morris</a></span>&nbsp;<span class="post-category">included in <a href="/categories/scu/scudev/"><i class="far fa-folder fa-fw" aria-hidden="true"></i>SCU/SCUDev</a></span></div>
+            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw" aria-hidden="true"></i>&nbsp;<time datetime="2023-08-02">2023-08-02</time>&nbsp;<i class="fas fa-pencil-alt fa-fw" aria-hidden="true"></i>&nbsp;3198 words&nbsp;
+                <i class="far fa-clock fa-fw" aria-hidden="true"></i>&nbsp;7 minutes&nbsp;</div>
+        </div><div class="details toc" id="toc-static"  data-kept="">
+                <div class="details-summary toc-title">
+                    <span>Contents</span>
+                    <span><i class="details-icon fas fa-angle-right" aria-hidden="true"></i></span>
+                </div>
+                <div class="details-content toc-content" id="toc-content-static"><nav id="TableOfContents">
+  <ul>
+    <li><a href="#地图绘制">地图绘制</a></li>
+  </ul>
+
+  <ul>
+    <li><a href="#人物贴图">人物贴图</a></li>
+    <li><a href="#渲染顺序">渲染顺序</a></li>
+    <li><a href="#人物动画状态机">==人物动画（状态机）==</a></li>
+    <li><a href="#人物碰撞">人物碰撞</a></li>
+    <li><a href="#人物运动利用unity新的input-system实现">==人物运动(利用Unity新的Input System实现）==</a></li>
+  </ul>
+
+  <ul>
+    <li><a href="#跳跃功能">跳跃功能</a></li>
+  </ul>
+
+  <ul>
+    <li><a href="#爬墙和跳跃">爬墙和跳跃</a></li>
+  </ul>
+
+  <ul>
+    <li><a href="#冲刺">冲刺</a></li>
+  </ul>
+
+  <ul>
+    <li><a href="#冲刺残影-对象池实现">冲刺残影-对象池实现</a>
+      <ul>
+        <li><a href="#残影预制体">残影预制体</a></li>
+        <li><a href="#对象池">对象池</a></li>
+        <li><a href="#实现过程的小问题">实现过程的小问题</a></li>
+      </ul>
+    </li>
+    <li><a href="#爬墙">爬墙</a></li>
+    <li><a href="#蹬墙跳待优化">蹬墙跳（待优化）</a></li>
+    <li><a href="#土狼时间">土狼时间</a></li>
+    <li><a href="#跳跃缓冲">跳跃缓冲</a></li>
+  </ul>
+
+  <ul>
+    <li><a href="#bug">BUG</a></li>
+  </ul>
+</nav></div>
+            </div><div class="content" id="content"><h1 id="fakeceleste">FakeCeleste</h1>
+<h1 id="简介">简介</h1>
+<p>用Unity制作一个仿制的Celeste，尽力还原游戏的手感。</p>
+<h1 id="day-1">Day 1</h1>
+<h2 id="地图绘制">地图绘制</h2>
+<p>在网上能够找到别人整理好的素材，虽然素材不太好使，但是不细看的话，效果还是不错的。<br>
+==素材大小是32*32的==，记住这点就好。然后对着游戏画图就行。</p>
+<h1 id="day-2">Day 2</h1>
+<h2 id="人物贴图">人物贴图</h2>
+<p>创建一个2D sprite,然后将madline的贴图替换掉原来的正方形。</p>
+<h2 id="渲染顺序">渲染顺序</h2>
+<p>对于面板里可看到的有关渲染顺序的选项有两个：Sorting Layer和Order in Layer。前者优先级大于后者。当Sorting Layer相同时，按照Order in Layer中的顺序（小的优先）进行渲染。<br>
+所以我们把整个游戏从先到后分成四层：BG,Terrain，Player，UI，设置好Sorting Layer。</p>
+<h2 id="人物动画状态机">==人物动画（状态机）==</h2>
+<p>单个动画Animation做就行（快捷键ctrl+6)，记得赋予对应的sprite，并勾选上Loop。</p>
+<p>如果要进行动画的转换，就需要利用状态机。Unity有个可视化的状态机Animator，低代码量地写出动画变换的逻辑。缺点是容易造屎山，当状态过多的时候，连线将非常多，极度影响代码可读性，所以身为一个优秀的程序员。状态机咱还是老老实实写一个接口来实现。</p>
+<h2 id="人物碰撞">人物碰撞</h2>
+<p>对于人物，我们需要Rigidbody2D和 colliderbox2D。碰撞盒子画的小一点，看起来比较自然。当然不能过分小，不然会穿模。</p>
+<p>对于地图，同样需要Rigidbody2D和tile colliderbox2D。不过地图的物理特性一般是不需要更新的，所以我们将其设置为static。在Celeste里，没有人物和单个tile交互的情况。所以我们用Compsitecolliderbox2D，把所有tile当成一个巨大的碰撞盒子，这样可以提高运算速率。</p>
+<h2 id="人物运动利用unity新的input-system实现">==人物运动(利用Unity新的Input System实现）==</h2>
+<p>这里的思想同人物动画中的状态机思想。也是单独写一个PlayerInput类来管理玩家的输入，然后根据这个类捕获到的输入信号，再在相应的类中去响应对应的输入。非常优雅的面向对象的思想。比Unity自带的那个老的输入系统要好不少。</p>
+<h1 id="day3">Day3</h1>
+<h2 id="跳跃功能">跳跃功能</h2>
+<p>跳跃功能实现了，但是Bug非常多。很烦，明天再改。</p>
+<h1 id="day4">Day4</h1>
+<h2 id="爬墙和跳跃">爬墙和跳跃</h2>
+<p>爬墙和跳跃的优化，现在五个状态:Idle、Run、Jump、Climb、Fall衔接还是比较流畅了。还差个Dash，功能就实现的差不多了。明天把Dash和土狼时间实现，基础功能就全部实现。后续就是优化控制器和增加地图元素交互。</p>
+<h1 id="day5">Day5</h1>
+<h2 id="冲刺">冲刺</h2>
+<p>Dash功能的初步实现，效果还是不错的。不过没有残影，后面再加一下</p>
+<h1 id="day-6">Day 6</h1>
+<h2 id="冲刺残影-对象池实现">冲刺残影-对象池实现</h2>
+<h3 id="残影预制体">残影预制体</h3>
+<p>首先我们需要写一个残影预制体，用对象池对不同的具体残影进行管理。残影需要获取到玩家的贴图，所以需要一个spriterender组件，并且把Sorting Layer设置为和玩家一样的层级，这样才能显示。然后给其赋予一个脚本，脚本的逻辑为：寻找到玩家对象，获取玩家对象的坐标和贴图，对获取到的贴图随时间更改其透明度。（要在残影的显示时间内）如果残影显示时间超出了设置的时间，那么就把这个残影对象停用，并返回到对象池。</p>
+<h3 id="对象池">对象池</h3>
+<p>用一个单独的空物体来管理所有需要反复出现消失的对象。用队列实现对象池。初始阶段，先把对象池填满（入队），但不启用。当对象池中的对象被触发时，依次出队即可。如果队中所有对象均出队却仍然不满足触发条件（比如冲刺时间&gt;残影显示时间），这时需再往对象池中填充对象。写一个if语句判断就行。</p>
+<p>对象池建议使用单例模式（因为对象池只有一个，用单例模式很合理），这样能够在其他脚本中直接调用，而不需要实例化对象，减少开销。必要操作有FillPool（），填充对象池；ReturnObject（Obejct），停用对象池中的某个对象，并放入对象池；GetFromObejct（），获取对象池对象。</p>
+<h3 id="实现过程的小问题">实现过程的小问题</h3>
+<ol>
+<li>把残影的更新逻辑放到FixedUpdate里面，不要放在Update里面。否则在一些高性能电脑上，渲染帧数过高，残影很快就会消失。</li>
+<li>RGB的alpha通道不要用1f来乘变化值，alpha小于1的值，Unity好像会处理成完全透明，根本不显示。</li>
+</ol>
+<h2 id="爬墙">爬墙</h2>
+<p>在playcontroller中设置一个监测爬墙键是否被按下的变量<code>public bool Climb =&gt; playerInputActions.Gameplay.Climb.IsPressed();</code>​IsPressed()当按键一直被按着时返回的是true。<br>
+然后再climb状态的fixedupdate中，添加if判断，如果按住爬墙键，则爬墙，否则进行滑落。<br>
+同时设置一个爬墙时间，如果爬墙时间过久，则直接下滑。</p>
+<p>沿墙滑落状态：人物与墙碰撞且玩家按住对应的方向键<br>
+爬墙状态：玩家按着爬墙键，当玩家松开爬墙键，且什么都没按时，人物直接掉落，</p>
+<h2 id="蹬墙跳待优化">蹬墙跳（待优化）</h2>
+<p>这块没做好，后面再优化一下。重点是如何让蹬墙跳后的人物脱离墙面一段距离再进行控制，避免人物蹬墙跳后又回到墙面上</p>
+<h2 id="土狼时间">土狼时间</h2>
+<p>新建一个土狼时间状态，用状态持续时间来进行土狼时间的判断</p>
+<h2 id="跳跃缓冲">跳跃缓冲</h2>
+<p>用协程进行跳跃缓冲处理</p>
+<h1 id="todo">TODO</h1>
+<ul>
+<li>
+<p><i class="far fa-square fa-fw" aria-hidden="true"></i> 爬墙时间快到时，人物红光闪烁。</p>
+</li>
+<li>
+<p><i class="far fa-square fa-fw" aria-hidden="true"></i> 蹬墙跳取消惯性：就是蹬墙跳后不能控制人物，让人物不能马上又粘在墙上</p>
+</li>
+<li>
+<p><i class="far fa-check-square fa-fw" aria-hidden="true"></i> 跳跃缓冲：让人物的跳跃条件不用严格在边界条件下执行</p>
+</li>
+<li>
+<p><i class="far fa-check-square fa-fw" aria-hidden="true"></i> 冲刺跳：也该有一个缓冲，在缓冲时间内按下跳，将速度加到跳跃的逻辑上</p>
+<p>原来的想法有点难，短时间没法实现。我选择设计一个新的DashJump状态，只有Dash才能进入这个状态，进入这个状态之后，跳跃高度和空中移动速度都变快。</p>
+</li>
+<li>
+<p><i class="far fa-check-square fa-fw" aria-hidden="true"></i> 死亡判定</p>
+</li>
+<li>
+<p><i class="far fa-check-square fa-fw" aria-hidden="true"></i> 尖刺、跳板、移动平台</p>
+</li>
+<li>
+<p><i class="far fa-check-square fa-fw" aria-hidden="true"></i> 增加一些关卡，可能还会有镜头切换效果</p>
+</li>
+<li>
+<p><i class="far fa-check-square fa-fw" aria-hidden="true"></i> 开始界面UI</p>
+</li>
+<li>
+<p><i class="far fa-square fa-fw" aria-hidden="true"></i> 冲刺抖动、涟漪效果</p>
+<p>要改shader装插件还是算了</p>
+</li>
+<li>
+<p><i class="far fa-check-square fa-fw" aria-hidden="true"></i> 音效</p>
+</li>
+<li>
+<p><i class="far fa-square fa-fw" aria-hidden="true"></i> 胜利提示</p>
+</li>
+<li>
+<p><i class="far fa-check-square fa-fw" aria-hidden="true"></i> 跳跃粒子特效</p>
+<p>做了冲刺和跳跃、像一坨答辩。</p>
+</li>
+</ul>
+<h2 id="bug">BUG</h2>
+<ul>
+<li>
+<p><i class="far fa-check-square fa-fw" aria-hidden="true"></i> 贴着墙能够无限跳：脚底碰撞盒子也和墙体发生了碰撞</p>
+<p>其实这不是BUG，本来就该有这种机制</p>
+</li>
+<li>
+<p><i class="far fa-check-square fa-fw" aria-hidden="true"></i> 爬到平台上面应该自动上墙</p>
+<p>我用了一个最蠢的方法，在人物的头上加一个攀爬标志，当人物应该上墙时，直接把人物的position的移动到攀爬标志上。</p>
+</li>
+<li>
+<p><i class="far fa-square fa-fw" aria-hidden="true"></i> 大半截身子跳到平台上应该助推其跳上平台</p>
+</li>
+</ul>
+<h1 id="1211-todo">12.11 TODO</h1>
+<ul>
+<li>
+<p><i class="far fa-check-square fa-fw" aria-hidden="true"></i> 再画几个关卡，把游戏时长堆到3mins以上</p>
+</li>
+<li>
+<p><i class="far fa-check-square fa-fw" aria-hidden="true"></i> 第一关做个乌鸦TIPS</p>
+</li>
+<li>
+<p><i class="far fa-check-square fa-fw" aria-hidden="true"></i> 最后一关收集之后播放胜利音乐，并弹窗You Win，然后有个退出到主菜单和再来一遍按钮。</p>
+</li>
+<li>
+<p><i class="far fa-square fa-fw" aria-hidden="true"></i> 做个ESC菜单，调音量，从头开始、返回游戏、重新开始本关以及退出到主菜单</p>
+<p>不做了，游戏内容已经非常丰富了。</p>
+</li>
+<li>
+<p><i class="far fa-check-square fa-fw" aria-hidden="true"></i> 弹簧床以及移动平台的音效添加</p>
+</li>
+</ul>
+<h1 id="1211-done">12.11 Done</h1>
+<p>画了一共11关，同时有开始和胜利界面。到今天，算是完全做完了。后面好好整理一下，写一篇开发笔记。算是一次Unity2D的开发经验了。</p>
+<h1 id="参考资料">参考资料</h1>
+<ul>
+<li>弹簧床教程：<a href="https://www.bilibili.com/video/BV1Ha411s7sG/" target="_blank" rel="noopener noreffer ">https://www.bilibili.com/video/BV1Ha411s7sG</a></li>
+<li>一个完整的模型Celeste手感的项目思路分享：<a href="https://www.bilibili.com/video/BV1xr4y1s71V/" target="_blank" rel="noopener noreffer ">https://www.bilibili.com/video/BV1xr4y1s71V</a></li>
+<li>素材来源：<a href="https://space.bilibili.com/76823602?spm_id_from=333.337.0.0" target="_blank" rel="noopener noreffer ">https://space.bilibili.com/76823602?spm_id_from=333.337.0.0</a></li>
+<li>场景搭建和雪花特效：<a href="https://www.bilibili.com/read/cv7068806/" target="_blank" rel="noopener noreffer ">https://www.bilibili.com/read/cv7068806/</a></li>
+<li>原版手感实现思路分享：<a href="https://zhuanlan.zhihu.com/p/186713195" target="_blank" rel="noopener noreffer ">https://zhuanlan.zhihu.com/p/186713195</a></li>
+<li>（Youtube）Unity2D入门：<a href="https://www.youtube.com/watch?v=Ii-scMenaOQ&amp;list=PLrnPJCHvNZuCVTz6lvhR81nnaf1a-b67U" target="_blank" rel="noopener noreffer ">https://www.youtube.com/watch?v=Ii-scMenaOQ&amp;list=PLrnPJCHvNZuCVTz6lvhR81nnaf1a-b67U</a></li>
+<li>==平台跳跃，状态机详解：==​<a href="https://www.bilibili.com/video/BV1a14y1a72w/?spm_id_from=333.337.search-card.all.click&amp;vd_source=812be8baf0074e4d7fd5491cf54f958f" target="_blank" rel="noopener noreffer ">==https://www.bilibili.com/video/BV1a14y1a72w==</a></li>
+<li>残影效果（对象池）：<a href="https://www.bilibili.com/video/BV1gJ411E7gx/?spm_id_from=333.788.recommend_more_video.0&amp;vd_source=812be8baf0074e4d7fd5491cf54f958f" target="_blank" rel="noopener noreffer ">https://www.bilibili.com/video/BV1gJ411E7gx</a></li>
+</ul>
+<p>‍</p>
+</div><div class="post-footer" id="post-footer">
+    <div class="post-info">
+        <div class="post-info-line">
+            <div class="post-info-mod">
+                <span>Updated on 2023-08-02</span>
+            </div></div>
+        <div class="post-info-line">
+            <div class="post-info-md"></div>
+            <div class="post-info-share">
+                <span><a href="javascript:void(0);" title="Share on Twitter" data-sharer="twitter" data-url="http://example.org/posts/scu/scudev/fakeceleste/" data-title="[SCU]研究开发与实践-开发笔记" data-hashtags="SCU,course notes"><i class="fab fa-twitter fa-fw" aria-hidden="true"></i></a><a href="javascript:void(0);" title="Share on Facebook" data-sharer="facebook" data-url="http://example.org/posts/scu/scudev/fakeceleste/" data-hashtag="SCU"><i class="fab fa-facebook-square fa-fw" aria-hidden="true"></i></a><a href="javascript:void(0);" title="Share on Hacker News" data-sharer="hackernews" data-url="http://example.org/posts/scu/scudev/fakeceleste/" data-title="[SCU]研究开发与实践-开发笔记"><i class="fab fa-hacker-news fa-fw" aria-hidden="true"></i></a><a href="javascript:void(0);" title="Share on Line" data-sharer="line" data-url="http://example.org/posts/scu/scudev/fakeceleste/" data-title="[SCU]研究开发与实践-开发笔记"><i data-svg-src="https://cdn.jsdelivr.net/npm/simple-icons@7.3.0/icons/line.svg" aria-hidden="true"></i></a><a href="javascript:void(0);" title="Share on 微博" data-sharer="weibo" data-url="http://example.org/posts/scu/scudev/fakeceleste/" data-title="[SCU]研究开发与实践-开发笔记"><i class="fab fa-weibo fa-fw" aria-hidden="true"></i></a></span>
+            </div>
+        </div>
+    </div>
+
+    <div class="post-info-more">
+        <section class="post-tags"><i class="fas fa-tags fa-fw" aria-hidden="true"></i>&nbsp;<a href="/tags/scu/">SCU</a>,&nbsp;<a href="/tags/course-notes/">course notes</a></section>
+        <section>
+            <span><a href="javascript:void(0);" onclick="window.history.back();">Back</a></span>&nbsp;|&nbsp;<span><a href="/">Home</a></span>
+        </section>
+    </div>
+
+    <div class="post-nav"><a href="/posts/scu/scudev/lecture/1-%E5%9F%BA%E4%BA%8E%E5%9B%BE%E5%BD%A2%E7%BB%98%E5%88%B6%E7%9A%84%E6%B8%B8%E6%88%8F%E5%88%B6%E4%BD%9C/" class="prev" rel="prev" title="[SCU]研究开发与实践-笔记1"><i class="fas fa-angle-left fa-fw" aria-hidden="true"></i>[SCU]研究开发与实践-笔记1</a>
+            <a href="/posts/scu/2.%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96/" class="next" rel="next" title="[SCU]数据可视化">[SCU]数据可视化<i class="fas fa-angle-right fa-fw" aria-hidden="true"></i></a></div>
+</div>
+</article></div>
+            </main><footer class="footer">
+        <div class="footer-container"><div class="footer-line">Powered by <a href="https://gohugo.io/" target="_blank" rel="noopener noreffer" title="Hugo 0.121.1">Hugo</a> | Theme - <a href="https://github.com/dillonzq/LoveIt" target="_blank" rel="noopener noreffer" title="LoveIt 0.2.11"><i class="far fa-kiss-wink-heart fa-fw" aria-hidden="true"></i> LoveIt</a>
+                </div><div class="footer-line" itemscope itemtype="http://schema.org/CreativeWork"><i class="far fa-copyright fa-fw" aria-hidden="true"></i><span itemprop="copyrightYear">2022 - 2023</span><span class="author" itemprop="copyrightHolder">&nbsp;<a href="https://github.com/MorrisHohoho" target="_blank">Morris</a></span></div>
+        </div>
+    </footer></div>
+
+        <div id="fixed-buttons"><a href="#" id="back-to-top" class="fixed-button" title="Back to Top">
+                <i class="fas fa-arrow-up fa-fw" aria-hidden="true"></i>
+            </a><a href="#" id="view-comments" class="fixed-button" title="View Comments">
+                <i class="fas fa-comment fa-fw" aria-hidden="true"></i>
+            </a>
+        </div><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lightgallery@2.5.0/css/lightgallery-bundle.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/katex.min.css"><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/autocomplete.js@0.38.1/dist/autocomplete.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/lunr@2.3.9/lunr.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/lazysizes@5.3.2/lazysizes.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/lightgallery@2.5.0/lightgallery.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/lightgallery@2.5.0/plugins/thumbnail/lg-thumbnail.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/lightgallery@2.5.0/plugins/zoom/lg-zoom.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/clipboard@2.0.11/dist/clipboard.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/sharer.js@0.5.1/sharer.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/katex.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/contrib/auto-render.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/contrib/copy-tex.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/contrib/mhchem.min.js"></script><script type="text/javascript">window.config={"code":{"copyTitle":"Copy to clipboard","maxShownLines":50},"comment":{},"lightgallery":true,"math":{"delimiters":[{"display":true,"left":"$$","right":"$$"},{"display":true,"left":"\\[","right":"\\]"},{"display":true,"left":"\\begin{equation}","right":"\\end{equation}"},{"display":true,"left":"\\begin{equation*}","right":"\\end{equation*}"},{"display":true,"left":"\\begin{align}","right":"\\end{align}"},{"display":true,"left":"\\begin{align*}","right":"\\end{align*}"},{"display":true,"left":"\\begin{alignat}","right":"\\end{alignat}"},{"display":true,"left":"\\begin{alignat*}","right":"\\end{alignat*}"},{"display":true,"left":"\\begin{gather}","right":"\\end{gather}"},{"display":true,"left":"\\begin{CD}","right":"\\end{CD}"},{"display":false,"left":"$","right":"$"},{"display":false,"left":"\\(","right":"\\)"}],"strict":false},"search":{"highlightTag":"em","maxResultLength":10,"noResultsFound":"No results found","snippetLength":50}};</script><script type="text/javascript" src="/js/theme.min.js"></script></body>
+</html>
