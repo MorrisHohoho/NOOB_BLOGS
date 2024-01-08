@@ -1,4 +1,5 @@
-baseURL = "http://example.org/"
+baseURL = "http://example.org/NOOB_BLOGS"
+canonifyURLS = true
 
 # 更改使用 Hugo 构建网站时使用的默认主题
 theme = "LoveIt"
