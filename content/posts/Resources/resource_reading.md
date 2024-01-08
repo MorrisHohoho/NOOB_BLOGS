@@ -6,7 +6,7 @@ description: "Courses"
 images: ["/Apple-Devices-Preview.png"]
 lightgallery: true
 tags: ["resources"]
-categories: ["resources"]
+categories: ["Resources"]
 math:
   enable: tr
 ---

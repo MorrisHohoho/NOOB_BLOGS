@@ -6,7 +6,6 @@ description: "Courses Notes"
 images: ["/Apple-Devices-Preview.png"]
 lightgallery: true
 tags: ["notes-SCU Courses"]
-categories: ["SCUDev"]
 math:
   enable: tr
 ---
